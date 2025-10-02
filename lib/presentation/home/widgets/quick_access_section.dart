@@ -14,7 +14,6 @@ class QuickAccessSection extends StatelessWidget {
           _buildQuickAccessCard('Son Dosyalar', Icons.access_time, Colors.orange),
           _buildQuickAccessCard('Favoriler', Icons.star, Colors.amber),
           _buildQuickAccessCard('Paylaşılanlar', Icons.people, Colors.green),
-          _buildQuickAccessCard('Çöp Kutusu', Icons.delete, Colors.red),
         ],
       ),
     );
